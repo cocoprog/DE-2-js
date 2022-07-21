@@ -1,4 +1,4 @@
-// clase alumno
+// clase Proveedor
 
 class Proveedor {
     constructor(nombre, email, password){
